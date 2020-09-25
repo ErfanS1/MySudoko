@@ -1,3 +1,3 @@
 This is a Sudoko game with a solver in it, implented with python pygame library.
-MySudoko.png is a photo of the game.
+You can also see how it looks in this photo MySudoko.png.
 Enjoy playing.
